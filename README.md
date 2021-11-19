@@ -12,7 +12,7 @@ Autores: **Marilene Esquiavoni** & **Denny Paulista Azevedo Filho**<copyright ho
 
 ### Tela Principal
 
-![Tela Principal](https://md.dev.br/img/sisdesk/TelaPriOlimpoCafe.PNG)
+![Tela Principal](https://md.dev.br/img/sisdesk/TelaPriOlimpoCafe.png)
 
 ### Tela da Comanda - reprodução do documento utilizado
 
