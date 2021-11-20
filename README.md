@@ -25,7 +25,7 @@ Autores: **Marilene Esquiavoni** & **Denny Paulista Azevedo Filho**<copyright ho
 - Integração total entre os módulos
 - Registro de vendas (comanda) com geração de valores de cobrança
 - Possibilidade de inclusão de consumo na carteira de clientes
-- Controle de estoque com decomposição de itens _em inplantação_
+- Controle de estoque com decomposição de itens _em implantação_
 - Controle de Caixa, com fechamento diário
 - Controle bancário
 - Controle de contas a pagar e receber
